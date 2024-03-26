@@ -22,9 +22,8 @@ Ce projet est une implémentation du célèbre jeu de société Puissance 4 en P
 Le projet est organisé comme suit :
 
 - `main.py` : Le fichier principal à exécuter pour démarrer le jeu.
-- `puissance4.py` : Contient la logique du jeu Puissance 4.
+- `Jeu.py` : Contient la logique du jeu Puissance 4.
 - `ia.py` : Implémente l'intelligence artificielle pour jouer contre l'IA.
-- `puissance4gui.py` : Fournit l'interface graphique pour jouer au Puissance 4.
 - `interfacegraphique.py` : Gère l'interface utilisateur et permet de choisir le mode de jeu.
 
 ## Dépendances
