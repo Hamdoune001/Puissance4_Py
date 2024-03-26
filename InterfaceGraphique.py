@@ -4,7 +4,6 @@ import tkinter as tk
 from Jeu import Puissance4
 from IA import IA
 
-
 class InterfaceGraphique:
     def __init__(self):
         self.fen = tk.Tk()
